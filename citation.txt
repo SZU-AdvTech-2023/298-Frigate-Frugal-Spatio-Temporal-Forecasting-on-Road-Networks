@@ -1,0 +1,6 @@
+@article{REPO298,
+    author = "Gupta, Mridul and Kodamana, Hariprasad and Ranu, Sayan",
+    journal = "arXiv preprint arXiv:2306.08277",
+    title = "{FRIGATE: Frugal Spatio-Temporal Forecasting on Road Networks}",
+    year = "2023"
+}
